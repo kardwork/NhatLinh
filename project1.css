@@ -12,6 +12,7 @@ body {
 	flex-wrap: wrap;
 	min-height: 100vh;
 	background: url(pinkback.jpg);
+	background-repeat: no-repeat;
 }
 
 button {
