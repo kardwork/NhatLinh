@@ -11,9 +11,11 @@ body {
 	align-items: center;
 	flex-wrap: wrap;
 	min-height: 100vh;
-	background: url(pinkback.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background: url(pinkback.jpg) no-repeat center center fixed; 
+ 	 -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 
 button {
