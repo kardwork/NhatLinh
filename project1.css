@@ -137,7 +137,7 @@ button:before {
 
 .Box:before,
 .Box:after {
-	background: linear-gradient(235deg, #772aff, #010615, #2196F3);
+	background-image: linear-gradient(315deg, #e899dc 0%, #d387ab 74%);
 }
 
 .Box:nth-child(2):before,
