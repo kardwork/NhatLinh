@@ -55,7 +55,7 @@ button:before {
 	right: -5px;
 	bottom: -5px;
 	z-index: -1;
-	background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+	background: linear-gradient(90deg, #e899dc, #f441a5, #ffeb3b, #e899dc);
 	background-size: 400%;
 	border-radius: 40px;
 	filter: blur(20px);
